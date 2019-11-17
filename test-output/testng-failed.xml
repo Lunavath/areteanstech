@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [suitname]">
+  <listeners>
+    <listener class-name="com.areteans.library.drivers.DriverScript"/>
+  </listeners>
+  <test name="testname(failed)">
+    <classes>
+      <class name="com.areteans.tests.Module5">
+        <methods>
+          <include name="beforeSuit"/>
+          <include name="beforeTest"/>
+          <include name="tc05_registerUser"/>
+        </methods>
+      </class> <!-- com.areteans.tests.Module5 -->
+      <class name="com.areteans.tests.Module3">
+        <methods>
+          <include name="tC01_verifyLoginFunctionality"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.areteans.tests.Module3 -->
+      <class name="com.areteans.tests.Module2">
+        <methods>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.areteans.tests.Module2 -->
+      <class name="com.areteans.tests.Module1">
+        <methods>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.areteans.tests.Module1 -->
+      <class name="com.areteans.tests.Module4">
+        <methods>
+          <include name="tc02_verify_Gettinglistofexisting_customers"/>
+        </methods>
+      </class> <!-- com.areteans.tests.Module4 -->
+    </classes>
+  </test> <!-- testname(failed) -->
+</suite> <!-- Failed suite [suitname] -->

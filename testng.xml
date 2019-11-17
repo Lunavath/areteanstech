@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="suitname">	
+	<listeners>
+		<listener class-name="com.areteans.library.drivers.DriverScript"/>
+	</listeners>
+	<test name="testname">
+			<packages>
+				<package name = "com.areteans.tests"/>
+			</packages>
+	</test> 
+</suite> 

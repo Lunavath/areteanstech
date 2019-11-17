@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suitname" duration-ms="18911" started-at="2019-11-15T10:59:30Z" finished-at="2019-11-15T10:59:48Z">
+    <groups>
+    </groups>
+    <test name="testname" duration-ms="18911" started-at="2019-11-15T10:59:30Z" finished-at="2019-11-15T10:59:48Z">
+      <class name="com.areteans.tests.Module1">
+        <test-method status="PASS" signature="beforeSuit()[pri:0, instance:com.areteans.tests.Module1@7193666c]" name="beforeSuit" is-config="true" duration-ms="16" started-at="2019-11-15T16:29:30Z" finished-at="2019-11-15T16:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.areteans.tests.Module1@7193666c]" name="beforeTest" is-config="true" duration-ms="10674" started-at="2019-11-15T16:29:30Z" finished-at="2019-11-15T16:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.areteans.tests.Module1@7193666c]" name="afterTest" is-config="true" duration-ms="1026" started-at="2019-11-15T16:29:47Z" finished-at="2019-11-15T16:29:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.areteans.tests.Module1 -->
+      <class name="com.areteans.tests.Module3">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.areteans.tests.Module3@43195e57]" name="beforeMethod" is-config="true" duration-ms="3357" started-at="2019-11-15T16:29:41Z" finished-at="2019-11-15T16:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tC01_verifyLoginFunctionality(java.util.List)[pri:0, instance:com.areteans.tests.Module3@43195e57]" name="tC01_verifyLoginFunctionality" duration-ms="3549" started-at="2019-11-15T16:29:44Z" description="this is to verify login fun" finished-at="2019-11-15T16:29:47Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC01_verifyLoginFunctionality -->
+      </class> <!-- com.areteans.tests.Module3 -->
+    </test> <!-- testname -->
+  </suite> <!-- suitname -->
+</testng-results>

@@ -1,0 +1,5 @@
+08-10-2019 17:44:07 [INFO] - *********** Test ===> testname Started *******
+08-10-2019 17:44:20 [INFO] - *********** Test Case ===>tC01_verifyLoginFunctionality_Iteration = 1 Started *******
+08-10-2019 17:44:20 [INFO] - *********** Iteration ===> 1 Started *******
+08-10-2019 17:45:01 [INFO] - *********** Test Case ===> tC01_verifyLoginFunctionality completed succssfully *******
+08-10-2019 17:45:02 [INFO] - *********** Test ===> testname Ended *******

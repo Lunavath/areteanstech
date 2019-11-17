@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suitname" duration-ms="29525" started-at="2019-11-17T10:09:32Z" finished-at="2019-11-17T10:10:02Z">
+    <groups>
+    </groups>
+    <test name="testname" duration-ms="29525" started-at="2019-11-17T10:09:32Z" finished-at="2019-11-17T10:10:02Z">
+      <class name="com.areteans.tests.Module3">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.areteans.tests.Module3@29176cc1]" name="beforeMethod" is-config="true" duration-ms="7381" started-at="2019-11-17T15:39:45Z" finished-at="2019-11-17T15:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tC01_verifyLoginFunctionality(java.util.List)[pri:0, instance:com.areteans.tests.Module3@29176cc1]" name="tC01_verifyLoginFunctionality" duration-ms="8913" started-at="2019-11-17T15:39:52Z" description="this is to verify login fun" finished-at="2019-11-17T15:40:01Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC01_verifyLoginFunctionality -->
+      </class> <!-- com.areteans.tests.Module3 -->
+      <class name="com.areteans.tests.Module5">
+        <test-method status="PASS" signature="beforeSuit()[pri:0, instance:com.areteans.tests.Module5@3d121db3]" name="beforeSuit" is-config="true" duration-ms="47" started-at="2019-11-17T15:39:32Z" finished-at="2019-11-17T15:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.areteans.tests.Module5@3d121db3]" name="beforeTest" is-config="true" duration-ms="11959" started-at="2019-11-17T15:39:33Z" finished-at="2019-11-17T15:39:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.areteans.tests.Module5@3d121db3]" name="afterTest" is-config="true" duration-ms="865" started-at="2019-11-17T15:40:01Z" finished-at="2019-11-17T15:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.areteans.tests.Module5 -->
+    </test> <!-- testname -->
+  </suite> <!-- suitname -->
+</testng-results>

@@ -1,0 +1,17 @@
+10-31-2019 15:05:27 [INFO] - *********** Test ===> testname Started *******
+10-31-2019 15:05:45 [INFO] - *********** Test Case ===>TC01_searchDirectory_Iteration = 1 Started *******
+10-31-2019 15:05:45 [INFO] - *********** Iteration ===> 1 Started *******
+10-31-2019 15:05:51 [INFO] - *********** Test Case ===> TC01_searchDirectory completed succssfully *******
+10-31-2019 15:05:52 [INFO] - *********** Test Case ===>TC02_addEmergnecyDetails_Iteration = 1 Started *******
+10-31-2019 15:05:52 [INFO] - *********** Iteration ===> 1 Started *******
+10-31-2019 15:07:24 [INFO] - *********** Test Case ===> TC02_addEmergnecyDetails completed succssfully *******
+10-31-2019 15:07:30 [INFO] - *********** Test Case ===>tC01_verifyLoginFunctionality_Iteration = 1 Started *******
+10-31-2019 15:07:30 [INFO] - *********** Iteration ===> 1 Started *******
+10-31-2019 15:07:30 [ERROR] - *********** Test Case << tC01_verifyLoginFunctionality>> skipped ******* pls check in class == com.areteans.tests.Module3 and reason is null
+10-31-2019 15:07:30 [INFO] - *********** Test Case ===>tc02_verify_Gettinglistofexisting_customers_Iteration = 1 Started *******
+10-31-2019 15:07:30 [INFO] - *********** Iteration ===> 1 Started *******
+10-31-2019 15:07:30 [ERROR] - *********** Test Case << tc02_verify_Gettinglistofexisting_customers>> skipped ******* pls check in class == com.areteans.tests.Module4 and reason is null
+10-31-2019 15:07:30 [INFO] - *********** Test Case ===>tc05_registerUser_Iteration = 1 Started *******
+10-31-2019 15:07:30 [INFO] - *********** Iteration ===> 1 Started *******
+10-31-2019 15:07:30 [ERROR] - *********** Test Case << tc05_registerUser>> skipped ******* pls check in class == com.areteans.tests.Module5 and reason is null
+10-31-2019 15:07:30 [INFO] - *********** Test ===> testname Ended *******
